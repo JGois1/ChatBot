@@ -1,4 +1,4 @@
-# echo_bot
+# Ecommerce Chat Bot
 
 A bot that echoes back user response.
 
